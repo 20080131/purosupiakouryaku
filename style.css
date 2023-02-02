@@ -28,7 +28,7 @@ h1 {
 /* ===== ヘッダーのスタイル ===== */
 /* ヘッダーの箱 */
 header {
-  background-image: url(img/ホーム画面.jpg);/* 背景画像 */
+  background-image: url(ホーム画面.jpg);/* 背景画像 */
   height: 450px;/* 高さ */
   padding-top: 150px;/* 上がわの余白 */
   background-size: cover;
@@ -71,7 +71,7 @@ header {
 /* セクション */
 .photo {
   padding: 30px;
-  background-image: url(img/木目.jpg);
+  background-image: url(木目.jpg);
 }
 
 /* h2見出し */
